@@ -1,0 +1,40 @@
+Vehicle Check Sheet for Booking ID 8
+
+Charge Before: 87
+Charge Lead Present: Yes
+Charging Card Present: Yes
+Washers/Wipers Clean and Intact: Yes
+Windows Intact: Yes
+Mirrors Clean and Intact: Yes
+Indicators Working: Yes
+Lights Working: Yes
+Horn Working: Yes
+Seat Belt Working: Yes
+Damage Before: None
+Tyre Condition Before: Good
+First Aid Kit Present: Yes
+Hi-vis Jacket Present: Yes
+Warning Triangle Present: Yes
+Car Has Been Sanitised: Yes
+
+Charge After: 34
+Charge Lead Present: Yes
+Charging Card Present: Yes
+Washers/Wipers Clean and Intact: Yes
+Windows Intact: Yes
+Mirrors Clean and Intact: Yes
+Indicators Working: Yes
+Lights Working: Yes
+Horn Working: Yes
+Seat Belt Working: Yes
+Damage After: None
+Tyre Condition After: Good
+First Aid Kit Present: Yes
+Hi-vis Jacket Present: Yes
+Warning Triangle Present: Yes
+Car Has Been Sanitised: Yes
+
+Additional Comments
+No comments
+
+Vehicle is in condition indicated on this form: Yes
